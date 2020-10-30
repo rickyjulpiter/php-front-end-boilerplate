@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Requests' => array($vendorDir . '/rmccue/requests/library'),
+    'Bramus' => array($vendorDir . '/bramus/router/src'),
 );
